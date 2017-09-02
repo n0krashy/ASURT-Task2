@@ -1,0 +1,100 @@
+.container{
+    font-family: sans-serif;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.cen{
+    text-align: center;
+    margin: 0px;
+}
+
+.cen1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#fn{
+    margin-top: 30px;
+    font-size: 40px;
+}
+.con{
+    color: #0066ff;
+    font-weight: bold;
+    margin-top: 35px;
+}
+
+.exp{
+    font-weight: bold;
+}
+.line p{
+    display: inline-block;
+}
+
+.edc{
+    color: #0066ff;
+    font-weight: bold;
+}
+
+
+img{
+    margin-top: 50px;
+    width: 90%;
+    height: auto;
+}
+
+#logo{
+    width: 38%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 30px;
+}
+
+#pp{
+    width: 45%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pb2{
+    margin: auto;
+}
+
+.tit{
+    margin: -9px;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.pb{
+    width: 70%;
+    height: auto;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lorem{
+    color: #333333;
+    margin-left: 20px;
+}
+
+h4{
+    font-weight: normal;
+}
+
+.h{
+    margin-bottom: 10px;
+}
+
+.info{
+    margin-top: 35px;
+}
+
+.images2{
+    width: 110%;
+    height: auto;
+}
